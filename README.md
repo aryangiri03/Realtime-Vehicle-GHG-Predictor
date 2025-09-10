@@ -60,7 +60,7 @@ The pipeline combines **computer vision, vehicle data enrichment, deep learning,
 
 1. Car visits a fuel station.
 
-2. Camera captures **RJ26EM9716** → Fetch vehicle details (Tata Nexon, LPG, 1498cc, age 3 yrs).
+2. Camera captures **MH12AB1234** → Fetch vehicle details (Tata Nexon, LPG, 1498cc, age 3 yrs).
 
 3. Logs **12 litres fuel filled**, **urban region**, **humid weather**.
 
