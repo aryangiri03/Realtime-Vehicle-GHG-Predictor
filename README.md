@@ -96,7 +96,7 @@ pip install -r requirements.txt
 ### Run Backend
 
 ```bash
-python app.py
+node server.js
 ```
 
 ### Train Model
